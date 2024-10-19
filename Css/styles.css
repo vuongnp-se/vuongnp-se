@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: #6C7EE1;
+}
+header {
+    background-color: #FBA2D0;
+}
+nav {
+    text-decoration: none;
+    background-color: #FFC4A4;
+}
+main {
+    background-color: #92B9E3;
+}
+footer {
+    background-color: #FBA2D0;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
